@@ -1,0 +1,17 @@
+D:\Lfts\Visual Community Workspace\CarrosGetSet\CarrosGetSet\bin\Debug\net6.0-windows\CarrosGetSet.exe
+D:\Lfts\Visual Community Workspace\CarrosGetSet\CarrosGetSet\bin\Debug\net6.0-windows\CarrosGetSet.deps.json
+D:\Lfts\Visual Community Workspace\CarrosGetSet\CarrosGetSet\bin\Debug\net6.0-windows\CarrosGetSet.runtimeconfig.json
+D:\Lfts\Visual Community Workspace\CarrosGetSet\CarrosGetSet\bin\Debug\net6.0-windows\CarrosGetSet.dll
+D:\Lfts\Visual Community Workspace\CarrosGetSet\CarrosGetSet\bin\Debug\net6.0-windows\CarrosGetSet.pdb
+D:\Lfts\Visual Community Workspace\CarrosGetSet\CarrosGetSet\obj\Debug\net6.0-windows\CarrosGetSet.csproj.AssemblyReference.cache
+D:\Lfts\Visual Community Workspace\CarrosGetSet\CarrosGetSet\obj\Debug\net6.0-windows\CarrosGetSet.Form1.resources
+D:\Lfts\Visual Community Workspace\CarrosGetSet\CarrosGetSet\obj\Debug\net6.0-windows\CarrosGetSet.csproj.GenerateResource.cache
+D:\Lfts\Visual Community Workspace\CarrosGetSet\CarrosGetSet\obj\Debug\net6.0-windows\CarrosGetSet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lfts\Visual Community Workspace\CarrosGetSet\CarrosGetSet\obj\Debug\net6.0-windows\CarrosGetSet.AssemblyInfoInputs.cache
+D:\Lfts\Visual Community Workspace\CarrosGetSet\CarrosGetSet\obj\Debug\net6.0-windows\CarrosGetSet.AssemblyInfo.cs
+D:\Lfts\Visual Community Workspace\CarrosGetSet\CarrosGetSet\obj\Debug\net6.0-windows\CarrosGetSet.csproj.CoreCompileInputs.cache
+D:\Lfts\Visual Community Workspace\CarrosGetSet\CarrosGetSet\obj\Debug\net6.0-windows\CarrosGetSet.dll
+D:\Lfts\Visual Community Workspace\CarrosGetSet\CarrosGetSet\obj\Debug\net6.0-windows\refint\CarrosGetSet.dll
+D:\Lfts\Visual Community Workspace\CarrosGetSet\CarrosGetSet\obj\Debug\net6.0-windows\CarrosGetSet.pdb
+D:\Lfts\Visual Community Workspace\CarrosGetSet\CarrosGetSet\obj\Debug\net6.0-windows\CarrosGetSet.genruntimeconfig.cache
+D:\Lfts\Visual Community Workspace\CarrosGetSet\CarrosGetSet\obj\Debug\net6.0-windows\ref\CarrosGetSet.dll

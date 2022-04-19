@@ -1,0 +1,17 @@
+D:\Lfts\Csharp Learning\Forms\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.exe
+D:\Lfts\Csharp Learning\Forms\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.deps.json
+D:\Lfts\Csharp Learning\Forms\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.runtimeconfig.json
+D:\Lfts\Csharp Learning\Forms\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.dll
+D:\Lfts\Csharp Learning\Forms\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.pdb
+D:\Lfts\Csharp Learning\Forms\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.AssemblyReference.cache
+D:\Lfts\Csharp Learning\Forms\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.Form1.resources
+D:\Lfts\Csharp Learning\Forms\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.GenerateResource.cache
+D:\Lfts\Csharp Learning\Forms\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lfts\Csharp Learning\Forms\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfoInputs.cache
+D:\Lfts\Csharp Learning\Forms\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfo.cs
+D:\Lfts\Csharp Learning\Forms\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+D:\Lfts\Csharp Learning\Forms\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.dll
+D:\Lfts\Csharp Learning\Forms\Calculadora\Calculadora\obj\Debug\net6.0-windows\refint\Calculadora.dll
+D:\Lfts\Csharp Learning\Forms\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.pdb
+D:\Lfts\Csharp Learning\Forms\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.genruntimeconfig.cache
+D:\Lfts\Csharp Learning\Forms\Calculadora\Calculadora\obj\Debug\net6.0-windows\ref\Calculadora.dll

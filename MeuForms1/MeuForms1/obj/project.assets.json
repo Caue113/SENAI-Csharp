@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Lfts\\CsharpTests\\Community_Forms\\MeuForms1\\MeuForms1\\MeuForms1.csproj",
+      "projectUniqueName": "D:\\Lfts\\GitHub\\SENAI-Csharp\\MeuForms1\\MeuForms1\\MeuForms1.csproj",
       "projectName": "MeuForms1",
-      "projectPath": "D:\\Lfts\\CsharpTests\\Community_Forms\\MeuForms1\\MeuForms1\\MeuForms1.csproj",
+      "projectPath": "D:\\Lfts\\GitHub\\SENAI-Csharp\\MeuForms1\\MeuForms1\\MeuForms1.csproj",
       "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "D:\\Lfts\\CsharpTests\\Community_Forms\\MeuForms1\\MeuForms1\\obj\\",
+      "outputPath": "D:\\Lfts\\GitHub\\SENAI-Csharp\\MeuForms1\\MeuForms1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
